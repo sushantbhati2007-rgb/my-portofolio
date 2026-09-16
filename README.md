@@ -1,2 +1,3 @@
-# my-portofolio
-My portofolio website
+# my-portfolio
+My portfolio website
+Here you see all necessary information about me
